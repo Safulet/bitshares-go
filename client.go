@@ -3,15 +3,15 @@ package bitshares
 import (
 	"encoding/json"
 
+	"github.com/Safulet/bitshares-go/apis/database"
+	"github.com/Safulet/bitshares-go/apis/history"
+	"github.com/Safulet/bitshares-go/apis/login"
+	"github.com/Safulet/bitshares-go/apis/networkbroadcast"
+	"github.com/Safulet/bitshares-go/caller"
+	"github.com/Safulet/bitshares-go/sign"
+	"github.com/Safulet/bitshares-go/transport/websocket"
+	"github.com/Safulet/bitshares-go/types"
 	"github.com/pkg/errors"
-	"github.com/scorum/bitshares-go/apis/database"
-	"github.com/scorum/bitshares-go/apis/history"
-	"github.com/scorum/bitshares-go/apis/login"
-	"github.com/scorum/bitshares-go/apis/networkbroadcast"
-	"github.com/scorum/bitshares-go/caller"
-	"github.com/scorum/bitshares-go/sign"
-	"github.com/scorum/bitshares-go/transport/websocket"
-	"github.com/scorum/bitshares-go/types"
 	"log"
 	"time"
 )

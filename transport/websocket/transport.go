@@ -3,11 +3,12 @@ package websocket
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/scorum/bitshares-go/caller"
 	"log"
 	"math"
 	"strconv"
 	"sync"
+
+	"github.com/Safulet/bitshares-go/caller"
 
 	"github.com/pkg/errors"
 	"github.com/scorum/scorum-go/transport"

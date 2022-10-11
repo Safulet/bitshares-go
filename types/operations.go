@@ -2,8 +2,8 @@ package types
 
 import (
 	"encoding/json"
+	"github.com/Safulet/bitshares-go/encoding/transaction"
 	"github.com/pkg/errors"
-	"github.com/scorum/bitshares-go/encoding/transaction"
 	"reflect"
 )
 

@@ -1,7 +1,7 @@
-# scorum/bitshares-go
-[![Go Report Card](https://goreportcard.com/badge/github.com/scorum/bitshares-go)](https://goreportcard.com/report/github.com/scorum/bitshares-go)
-[![GoDoc](https://godoc.org/github.com/scorum/bitshares-go?status.svg)](https://godoc.org/github.com/scorum/bitshares-go)
-[![Build Status](https://travis-ci.org/scorum/bitshares-go.svg?branch=master)](https://travis-ci.org/scorum/bitshares-go)
+# Safulet/bitshares-go
+[![Go Report Card](https://goreportcard.com/badge/github.com/Safulet/bitshares-go)](https://goreportcard.com/report/github.com/Safulet/bitshares-go)
+[![GoDoc](https://godoc.org/github.com/Safulet/bitshares-go?status.svg)](https://godoc.org/github.com/Safulet/bitshares-go)
+[![Build Status](https://travis-ci.org/Safulet/bitshares-go.svg?branch=master)](https://travis-ci.org/Safulet/bitshares-go)
 
 
 Golang RPC (via websockets) client library for [Bitshares](https://bitshares.org/) and [OpenLedger](https://openledger.io) in particular
@@ -9,7 +9,7 @@ Golang RPC (via websockets) client library for [Bitshares](https://bitshares.org
 ## Usage
 
 ```go
-import "github.com/scorum/bitshares-go"
+import "github.com/Safulet/bitshares-go"
 ```
 
 ## Example

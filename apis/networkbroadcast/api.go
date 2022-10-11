@@ -1,8 +1,8 @@
 package networkbroadcast
 
 import (
-	"github.com/scorum/bitshares-go/caller"
-	"github.com/scorum/bitshares-go/types"
+	"github.com/Safulet/bitshares-go/caller"
+	"github.com/Safulet/bitshares-go/types"
 )
 
 type API struct {

@@ -3,8 +3,8 @@ package types
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/Safulet/bitshares-go/encoding/transaction"
 	"github.com/pkg/errors"
-	"github.com/scorum/bitshares-go/encoding/transaction"
 	"strconv"
 	"strings"
 )
